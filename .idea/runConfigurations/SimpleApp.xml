@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="SimpleApp" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="main.java.SimpleApp" />
+    <module name="basic" />
+    <option name="PROGRAM_PARAMETERS" value="$JDKPath$$MAVEN_REPOSITORY$" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

@@ -10,7 +10,11 @@ public class SimpleApp {
         YetAnotherExercises yetAnotherExercises=new YetAnotherExercises();
        // yetAnotherExercises.Add2Integers();
         //yetAnotherExercises.OddEven();
-        yetAnotherExercises.Multiple();
+        //yetAnotherExercises.Multiple();
+       // yetAnotherExercises.SumProductMinMax3();
+       // yetAnotherExercises.PrintDayInWord();
+       // yetAnotherExercises.PrintNumberInWord();
+        yetAnotherExercises.CircleComputation();
 
 
     }
