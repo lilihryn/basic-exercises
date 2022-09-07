@@ -14,7 +14,9 @@ public class SimpleApp {
        // yetAnotherExercises.SumProductMinMax3();
        // yetAnotherExercises.PrintDayInWord();
        // yetAnotherExercises.PrintNumberInWord();
-        yetAnotherExercises.CircleComputation();
+       // yetAnotherExercises.CircleComputation();
+       // yetAnotherExercises.SwapIntegers();
+        yetAnotherExercises.SumAverage();
 
 
     }
