@@ -16,7 +16,13 @@ public class SimpleApp {
        // yetAnotherExercises.PrintNumberInWord();
        // yetAnotherExercises.CircleComputation();
        // yetAnotherExercises.SwapIntegers();
-        yetAnotherExercises.SumAverage();
+        //yetAnotherExercises.SumAverage();
+       // yetAnotherExercises.IncomeTaxCalculator();
+        //yetAnotherExercises.PensionContributionCalculator();
+        //yetAnotherExercises.SalesTax();
+       // yetAnotherExercises.HarmonicSum();
+        yetAnotherExercises.ComputePIa();
+
 
 
     }
